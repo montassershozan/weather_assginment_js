@@ -1,3 +1,4 @@
+"use strict"
 const carDs = document.querySelector('.card-group');
 const searchInp = document.querySelector('#weatherCites');
 const subBtn = document.querySelector('.subBtn');
